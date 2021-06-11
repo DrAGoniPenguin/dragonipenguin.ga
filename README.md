@@ -1,9 +1,11 @@
-Repository for my website
-dragonipenguin.ga
+***Repository for my website
+dragonipenguin.ga***
+
 put dis here cuz im lazy 2 type
 
-hola me gusta cool dragoni penguin
-package stupidityinone.scripts.stuff;
+**hola me gusta cool dragoni penguin**
+
+'package stupidityinone.scripts.stuff;
 import stupidityinone.scripts.*
 import stupidityinone.dragonipenguinsite.*
 
@@ -38,7 +40,12 @@ not like its fun
 this is a cool font tbh
 o right its because its a waste of time
 :D
-i love doing this.*/
+i love doing this.*/'
+
 anyways...
 tbh i dunno how to use this stuff
+this readme/page is mostly gonna be an experiment to learn some stuff
+
+client test page
+[TestClient](/dragonipenguin.ga/blob/main/docs/assets/pages/index.html)
 
