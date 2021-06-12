@@ -2,3 +2,5 @@ theme: jekyll-theme-slate
 name:  cringe site
 title: Alex's dum site
 description: theres nothing here
+github:
+  is_project_page: false
