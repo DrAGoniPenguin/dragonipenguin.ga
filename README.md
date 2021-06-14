@@ -44,6 +44,6 @@ tbh i dunno how to use this stuff
 this readme/page is mostly gonna be an experiment to learn some stuff
 
 client test page
-`[TestClient](/dragonipenguin.ga/docs/assets/pages/index.html)`
+`[client](/dragonipenguin.ga/docs/assets/pages/index.html)`
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
