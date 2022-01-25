@@ -1,6 +1,7 @@
 theme: jekyll-theme-hacker
 name:  cringe site
 title: Alex's dum site
+markdown: GFM
 description: theres nothing here
 github:
   is_project_page: false
